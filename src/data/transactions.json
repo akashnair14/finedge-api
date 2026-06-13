@@ -1,0 +1,22 @@
+[
+  {
+    "id": "703ce663-e2aa-4a1a-bc16-9bed6cf4d95d",
+    "userId": "b0c77111-35a4-4086-a3c1-f3ff548785af",
+    "type": "expense",
+    "category": "Food",
+    "amount": 250,
+    "description": "Lunch",
+    "date": "2026-06-13",
+    "CreatedDatetime": "13-06-2026 22:52:20"
+  },
+  {
+    "id": "690e251f-9f51-432d-9cb2-2470f9cb993c",
+    "userId": "b0c77111-35a4-4086-a3c1-f3ff548785af",
+    "type": "expense",
+    "category": "Travel",
+    "amount": 3000,
+    "description": "Petrol",
+    "date": "2026-06-13",
+    "CreatedDatetime": "13-06-2026 22:54:05"
+  }
+]

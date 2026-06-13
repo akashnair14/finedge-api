@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# Testing / coverage
+coverage/
+.nyc_output
+
+# OS metadata
+.DS_Store
+Thumbs.db

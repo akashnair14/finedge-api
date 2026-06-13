@@ -1,0 +1,16 @@
+[
+  {
+    "id": "02a1e766-9216-4ac8-972b-14cf4f8e5138",
+    "userId": "b0c77111-35a4-4086-a3c1-f3ff548785af",
+    "category": "Food",
+    "monthlybudget": 5000,
+    "CreatedDatetime": "13-06-2026 22:54:22"
+  },
+  {
+    "id": "6b8c18fd-b23d-4259-9bf5-693eecf10815",
+    "userId": "b0c77111-35a4-4086-a3c1-f3ff548785af",
+    "category": "Travel",
+    "monthlybudget": 2500,
+    "CreatedDatetime": "13-06-2026 22:54:32"
+  }
+]
