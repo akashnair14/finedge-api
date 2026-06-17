@@ -1,6 +1,6 @@
 # FinEdge - Personal Finance & Expense Tracker API
 
-FinEdge is a clean, MVC-structured Node.js + Express REST API for tracking personal finances, expenses, category budgets, and savings targets. It uses local JSON files for persistent data storage and includes JWT-based route security and robust input validation.
+FinEdge is a clean, MVC-structured Node.js + Express REST API for tracking personal finances, expenses, category budgets, and savings targets. It uses local JSON files for persistent data storage and includes JWT-based route security and proper input validation.
 
 ---
 
